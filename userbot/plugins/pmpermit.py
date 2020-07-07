@@ -24,6 +24,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my Boss's inbox, henceforth your retard
 USER_BOT_NO_WARN = (
                     "**Currently My Boss**\n"
                     f"{DEFAULTUSER} is Busy ! So Better Don't Spam His Inbox !\n\n"
+                    f"{CUSTOM_MIDDLE_PMP}
                     )
 
 
